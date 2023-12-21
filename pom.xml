@@ -9,10 +9,10 @@
     </parent>
 
 	<groupId>org.openmrs.module</groupId>
-	<artifactId>basicmodule</artifactId>
+	<artifactId>moeketse</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Basic Module</name>
+	<name>moeketse</name>
 	<description>Example OpenMRS Module that may be used as a basis for creating a new module.</description>
 
 	<url>https://wiki.openmrs.org/x/FQ4z</url>

@@ -11,7 +11,7 @@
  *
  * Copyright (C) OpenMRS, LLC.  All Rights Reserved.
  */
-package org.openmrs.module.basicmodule.extension.html;
+package org.openmrs.module.moeketse.extension.html;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -37,7 +37,7 @@ public class AdminList extends AdministrationSectionExt {
 	 * @see org.openmrs.module.web.extension.AdministrationSectionExt#getTitle()
 	 */
 	public String getTitle() {
-		return "basicmodule.title";
+		return "moeketse.title";
 	}
 	
 	/**
@@ -47,7 +47,7 @@ public class AdminList extends AdministrationSectionExt {
 		
 		Map<String, String> map = new HashMap<String, String>();
 		
-		map.put("module/basicmodule/basicmoduleLink.form", "basicmodule.replace.this.link.name");
+		map.put("module/moeketse/moeketseLink.form", "moeketse.replace.this.link.name");
 		
 		return map;
 	}

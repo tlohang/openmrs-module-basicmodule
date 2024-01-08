@@ -11,7 +11,7 @@
  *
  * Copyright (C) OpenMRS, LLC.  All Rights Reserved.
  */
-package org.openmrs.module.basicmodule.web.controller;
+package org.openmrs.module.moeketse.web.controller;
 
 import java.util.Collection;
 

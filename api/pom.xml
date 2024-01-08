@@ -9,6 +9,6 @@
 
 	<artifactId>moeketse-api</artifactId>
 	<packaging>jar</packaging>
-	<name>Basic Module API</name>
-	<description>API project for Basic Module</description>
+	<name>Moeketse Module API</name>
+	<description>API project for Moeketse Module</description>
 </project>

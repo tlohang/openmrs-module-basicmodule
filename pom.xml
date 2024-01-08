@@ -18,9 +18,9 @@
 	<url>https://wiki.openmrs.org/x/FQ4z</url>
 
 	<scm>
-		<connection>scm:git:git@github.com:openmrs/openmrs-module-basicmodule.git</connection>
-		<developerConnection>scm:git:git@github.com:openmrs/openmrs-module-basicmodule.git</developerConnection>
-		<url>https://github.com/openmrs/openmrs-module-basicmodule/</url>
+		<connection>scm:git:git@github.com:openmrs/openmrs-module-moeketse.git</connection>
+		<developerConnection>scm:git:git@github.com:openmrs/openmrs-module-moeketse.git</developerConnection>
+		<url>https://github.com/tlohang/openmrs-module-moeketse/</url>
 	</scm>
 
 	<modules>

@@ -9,8 +9,8 @@
 
 	<artifactId>moeketse-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>Basic Module OMOD</name>
-	<description>OpenMRS module project for Basic Module</description>
+	<name>Moeketse OMOD</name>
+	<description>OpenMRS module project for Moeketse</description>
 
 	<dependencies>
         <dependency>
